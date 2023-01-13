@@ -1,0 +1,367 @@
+{
+  "name": "Secretum Secretorum",
+  "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Wish_Secretum_Secretorum_2020-12-23.jpg/revision/latest/scale-to-width-down/1000?cb=20201221041709",
+  "FiveStarRateUp": {
+    "name": "Albedo",
+    "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Albedo_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201223035201",
+    "rarity": 5,
+    "type": "Geo",
+    "category": "Character"
+  },
+  "FourStarRateUps": [
+    {
+      "name": "Fischl",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Fischl_wish.png/revision/latest/scale-to-width-down/1000?cb=20201203020817",
+      "rarity": 4,
+      "type": "Electro",
+      "category": "Character"
+    },
+    {
+      "name": "Bennett",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Bennett_wish.png/revision/latest/scale-to-width-down/1000?cb=20201112005520",
+      "rarity": 4,
+      "type": "Pyro",
+      "category": "Character"
+    },
+    {
+      "name": "Sucrose",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Sucrose_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201112011714",
+      "rarity": 4,
+      "type": "Anemo",
+      "category": "Character"
+    }
+  ],
+  "FiveStarPity": 90,
+  "StandardItems": [
+    {
+      "name": "Harbinger of Dawn",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/3_harbringer_of_dawn.jpg",
+      "rarity": 3,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Cool Steel",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/3_cool_steel.jpg",
+      "rarity": 3,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Skyrider Sword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/3_skyrider_sword.jpg",
+      "rarity": 3,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Ferrous Shadow",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/3_ferrous_shadow.jpg",
+      "rarity": 3,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Bloodtainted Greatsword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/3_bloodtainted_greatsword.jpg",
+      "rarity": 3,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Debate Club",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/3_debate_club.jpg",
+      "rarity": 3,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Black Tassel",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Polearm/3_black_tassel.jpg",
+      "rarity": 3,
+      "type": "Polearm",
+      "category": "Weapon"
+    },
+    {
+      "name": "Magic Guide",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/3_magic_guide.jpg",
+      "rarity": 3,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Thrilling Tales of Dragon Slayers",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/3_thrilling_tales.jpg",
+      "rarity": 3,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Emerald Orb",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/3_emerald_orb.jpg",
+      "rarity": 3,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Raven Bow",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/3_raven_bow.jpg",
+      "rarity": 3,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Sharpshooter's Oath",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/3_sharpshooters_oath.jpg",
+      "rarity": 3,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Slingshot",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/3_slingshot.jpg",
+      "rarity": 3,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Rust",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/4_rust.jpg",
+      "rarity": 4,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Sacrificial Bow",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/4_sacrificial_bow.jpg",
+      "rarity": 4,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "The Stringless",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/4_the_stringless.jpg",
+      "rarity": 4,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Favonious Warbow",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/4_favonious_warbow.jpg",
+      "rarity": 4,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Eye of Perception",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/4_eye_of_perception.jpg",
+      "rarity": 4,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Sacrificial Fragments",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/4_sacrificial_fragments.jpg",
+      "rarity": 4,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "The Widsith",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/4_the_widsith.jpg",
+      "rarity": 4,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Favonious Codex",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Catalyst/4_favonious_codex.jpg",
+      "rarity": 4,
+      "type": "Catalyst",
+      "category": "Weapon"
+    },
+    {
+      "name": "Favonious Lance",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Polearm/4_favonious_lance.jpg",
+      "rarity": 4,
+      "type": "Polearm",
+      "category": "Weapon"
+    },
+    {
+      "name": "Dragon's Bane",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Polearm/4_dragons_bane.jpg",
+      "rarity": 4,
+      "type": "Polearm",
+      "category": "Weapon"
+    },
+    {
+      "name": "Rainslasher",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/4_rainslasher.jpg",
+      "rarity": 4,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Sacrificial Greatsword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/4_sacrificial_greatsword.jpg",
+      "rarity": 4,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "The Bell",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/4_the_bell.jpg",
+      "rarity": 4,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Favonious Greatsword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Claymore/4_favonious_greatsword.jpg",
+      "rarity": 4,
+      "type": "Claymore",
+      "category": "Weapon"
+    },
+    {
+      "name": "Lion's Roar",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/4_lions_roar.jpg",
+      "rarity": 4,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Sacrificial Sword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/4_sacrificial_sword.jpg",
+      "rarity": 4,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "The Flute",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/4_the_flute.jpg",
+      "rarity": 4,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Favonious Sword",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Sword/4_favonious_sword.jpg",
+      "rarity": 4,
+      "type": "Sword",
+      "category": "Weapon"
+    },
+    {
+      "name": "Skyward Spine",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Polearm/5_skyward_spine.jpg",
+      "rarity": 5,
+      "type": "Polearm",
+      "category": "Weapon"
+    },
+    {
+      "name": "Skyward Harp",
+      "imageurl": "https://www.gensh.in/fileadmin/Database/Weapons/Bow/5_skyward_harp.jpg",
+      "rarity": 5,
+      "type": "Bow",
+      "category": "Weapon"
+    },
+    {
+      "name": "Kaeya",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Kaeya_Summoned.jpg/revision/latest/scale-to-width-down/1000?cb=20201013041701",
+      "rarity": 4,
+      "type": "Cryo",
+      "category": "Character"
+    },
+    {
+      "name": "Chongyun",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Chongyun_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201202121706",
+      "rarity": 4,
+      "type": "Cryo",
+      "category": "Character"
+    },
+    {
+      "name": "Diona",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Diona_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201112010052",
+      "rarity": 4,
+      "type": "Cryo",
+      "category": "Character"
+    },
+    {
+      "name": "Amber",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Amber_wish.png/revision/latest/scale-to-width-down/1000?cb=20201113074932",
+      "rarity": 4,
+      "type": "Pyro",
+      "category": "Character"
+    },
+    {
+      "name": "Xinyan",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Xinyan_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201202172101",
+      "rarity": 4,
+      "type": "Pyro",
+      "category": "Character"
+    },
+    {
+      "name": "Xiangling",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Xiangling_wish.png/revision/latest/scale-to-width-down/1000?cb=20201113075206",
+      "rarity": 4,
+      "type": "Pyro",
+      "category": "Character"
+    },
+    {
+      "name": "Lisa",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Lisa_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201223041726",
+      "rarity": 4,
+      "type": "Electro",
+      "category": "Character"
+    },
+    {
+      "name": "Beidou",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Beidou_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201021045300",
+      "rarity": 4,
+      "type": "Electro",
+      "category": "Character"
+    },
+    {
+      "name": "Xingqiu",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Xingqiu_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201113073156",
+      "rarity": 4,
+      "type": "Hydro",
+      "category": "Character"
+    },
+    {
+      "name": "Ningguang",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Ningguang_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201113072944",
+      "rarity": 4,
+      "type": "Geo",
+      "category": "Character"
+    },
+    {
+      "name": "Diluc",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Diluc_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201113073904",
+      "rarity": 5,
+      "type": "Pyro",
+      "category": "Character"
+    },
+    {
+      "name": "Keqing",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Keqing_wish_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20201113075433",
+      "rarity": 5,
+      "type": "Electro",
+      "category": "Character"
+    },
+    {
+      "name": "Qiqi",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Qiqi_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201113072806",
+      "rarity": 5,
+      "type": "Cryo",
+      "category": "Character"
+    },
+    {
+      "name": "Mona",
+      "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Mona_Summoned.jpg/revision/latest/scale-to-width-down/1000?cb=20201011221932",
+      "rarity": 5,
+      "type": "Hydro",
+      "category": "Character"
+    }
+  ]
+}
+
